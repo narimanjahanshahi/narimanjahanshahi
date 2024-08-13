@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @narimanjahanshahi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nariman Jahanshahi
+- 👀 I’m interested in almost everything
+- 🌱 I’m currently learning C#, JavaScript, SQL, HTML, CSS, Bootstrap, Tailwind, NodeJs
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me nariman.j.2008@gmail.com
 
 <!---
 narimanjahanshahi/narimanjahanshahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
